@@ -1,13 +1,13 @@
-# Prerequisites
+-+ https://github.com/saurav5357/proton.git# Prerequisites
 #
 - JDK 17 
 - Maven 3.9 
-- MySQL 9
+- MySQL 990-/*
 
 # Technologies 
 - JAKARTA
 - Spring MVC
-- Spring Security
+- Spring Security saurav 0127
 - Spring Data JPA
 - Maven
 - JSP
